@@ -1,4 +1,4 @@
-# Majcn Brew-formulae
+# HomeBrew
 
 ## How do I install these formulae?
 
